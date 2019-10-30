@@ -18,3 +18,14 @@ body{
     background: linear-gradient(to right,#3A1C71, #D76D77, #FFAF7B);
 
 }
+.image{
+    position: relative;
+    right: 500px;
+    bottom: 100px;
+    height: 200px;
+    width: 200px;
+}
+.calculadora{
+    position: relative;
+    bottom: 180px;
+}

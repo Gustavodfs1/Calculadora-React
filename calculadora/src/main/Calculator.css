@@ -1,5 +1,7 @@
 
 .calculator{
+    position: relative;
+    bottom: 160px;
     align-content: center;
     align-self: auto;
     height: 320px;
