@@ -14,6 +14,8 @@ export default class App extends Component{
         <img className='image' src={imageLogo} alt='Logo da aplicação' />
         <h1 className='calculadora' >Calculadora</h1>
       <Calculator />
+
+      
       </div>
     )
   }
